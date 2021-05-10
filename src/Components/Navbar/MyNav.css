@@ -1,0 +1,27 @@
+
+.navbar{
+    margin-top: 0;
+    height: 100px;
+}
+.logo-img-handler{
+ width: 150px;
+ height: 150px;
+}
+.logo-img-handler img{
+    width: 100%;
+}
+.nav-left a{
+    color: #293154;
+    font-weight: 600;
+    font-size: 20px;
+    word-spacing: 3px;
+}
+.nav-link-color{
+    color: #293154;
+}
+.nav-left a:hover{
+    color: #c84127;
+}
+.active{
+    color: #c84127;
+}
